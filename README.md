@@ -1,0 +1,2 @@
+# HitListApp
+Core Data Demo
